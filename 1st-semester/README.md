@@ -1,6 +1,6 @@
 # 1st Semester
 
-This folder contains all projects and assignments from my first semester.
+This folder contains all assignments from my first semester.
 
 ## Courses:
 - **Systems Development I**

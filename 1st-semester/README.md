@@ -11,5 +11,4 @@ August 2025 - December 2025
 
 ## Languages Used:
 - Java.
-- C.
 - Python.
